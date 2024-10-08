@@ -1,0 +1,24 @@
+.iconList i{
+    color: #2Dc071;
+ 
+}
+.iconList .secondry{
+    color: gray;
+}
+.row{
+    margin-left: 90px;
+}
+.new{
+    background-color: #E77C40;
+   width: 78px;
+  padding: 20px 15px;
+
+  border-radius: 55%;
+    color: white;
+    position: absolute;
+    top: -35px;
+    right: 12px;
+}
+.news{
+    position: relative;
+}
